@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgb(9, 16, 36);
+    color: white;
+}
+
+input{
+    color: black;
+}
