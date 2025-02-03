@@ -16,7 +16,7 @@ export default function AppNavbar() {
     <Navbar>
       <NavbarBrand>
         <Link to="/">
-          <p className="font-bold text-inherit">Lavuk</p>
+          <p className="font-bold text-inherit">Chat App</p>
         </Link>
       </NavbarBrand>
 

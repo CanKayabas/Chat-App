@@ -3,10 +3,6 @@
 @tailwind utilities;
 
 body {
-    background-color: rgb(9, 16, 36);
-    color: white;
-}
-
-input{
+    background-color: white;
     color: black;
 }

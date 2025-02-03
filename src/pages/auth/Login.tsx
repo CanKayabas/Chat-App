@@ -41,9 +41,9 @@ export default function Login() {
   return (
     <div className="h-screen w-screen flex justify-center items-center">
       <div className="w-[500px] p-2 rounded-md shadow-md">
-        <h1 className="text-3xl font-bold text-center">Lavuk</h1>
+        <h1 className="text-3xl font-bold text-center">Chat App</h1>
         <h1 className="text-2xl font-bold">Login</h1>
-        <p>Welcome Back to Lavuk App</p>
+        <p>Welcome Back to Chat App App</p>
         <form onSubmit={handleSubmit}>
           <div className="mt-5">
             <Input

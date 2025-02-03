@@ -43,7 +43,7 @@ export default function Register() {
   return (
     <div className="h-screen w-screen flex justify-center items-center">
       <div className="w-[500px] p-4 rounded-md shadow">
-        <h1 className="text-3xl font-bold text-red-400 text-center">Lavuk</h1>
+        <h1 className="text-3xl font-bold text-red-400 text-center">Chat App</h1>
         <h1 className="text-2xl font-bold">Register</h1>
         <p>Welcome Back to world of communities chats</p>
         <form onSubmit={handleSubmit}>
